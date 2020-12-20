@@ -17,3 +17,49 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+[<img src="https://img.shields.io/twitter/follow/thechiragrathod?style=social"/>](https://twitter.com/TheChiragRathod)
+[<img src="https://img.shields.io/badge/-thechiragrathod-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thechiragrathod"/>](https://www.linkedin.com/in/thechiragrathod)
+[<img src="https://img.shields.io/github/followers/iampawan?label=follow&style=social"/>](https://github.com/TheChiragRathod)
+
+
+
+
+<hr>
+</hr>
+
+
+
+**Languages and Tools:**
+
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" align="left" height="25px" width="25px"/><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" align="left" height="25px" width="25px"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" align="left" height="25px" width="25px"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height="25px" width="25px"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" align="left" height="25px" width="25px"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" align="left" height="30px" width="30px"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" align="left" height="25px" width="25px"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" align="left" height="25px" width="25px"/>
+<img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" align="left" height="25px" width="25px"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" align="left" height="25px" width="25px"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" align="left" height="25px" width="25px"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" align="left" height="25px" width="25px"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" align="left" height="25px" width="25px"/>
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png" align="left" height="25px" width="25px"/>
+
+
+<hr>
+</hr>
+
+
+
+
+
+ <a href="https://github.com/TheChiragRathod" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thechiragrathod&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />  </a>     <a href="https://github.com/TheChiragRathod" ><img src="https://github-readme-stats.vercel.app/api?username=thechiragrathod&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /> </a>
+
+
+<a href="https://github.com/TheChiragRathod/Student_Management_Java_GUI_App" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin?username=thechiragrathod&repo=Student_Management_Java_GUI_App&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"/></a>  <a href="https://github.com/TheChiragRathod/Number_Converter_Android_App" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/pin?username=thechiragrathod&repo=Number_Converter_Android_App&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"/> </a>
+
+<hr>
+</hr>
+
+***<h3>Show some <img src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png"  height="15px" width="15px"/> by starring some of the repositories!</h3>*** 
