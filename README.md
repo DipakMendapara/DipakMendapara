@@ -16,9 +16,6 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact:  I spend almost 1 hours listening songs.
 
-[![Twitter: dipak_mendapara](https://img.shields.io/twitter/follow/DilipJSarvaiya1?style=social)]()
-[![Linkedin: Dilip Sarvaiya](https://img.shields.io/badge/-Dilip-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dilip-sarvaiya-55461817b/)](https://www.linkedin.com/in/dilip-sarvaiya-55461817b/)
-[![GitHub Dilip-Sarvaiya](https://img.shields.io/github/followers/Dilip-Sarvaiya?label=follow&style=social)](https://github.com/Dilip-Sarvaiya)
 
 
 
