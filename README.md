@@ -17,7 +17,7 @@
 - ⚡ Fun fact:  I spend almost 1 hours listening songs.
 
 [<img src="https://img.shields.io/twitter/follow/thechiragrathod?style=social"/>]()
-[<img src="https://img.shields.io/badge/-thechiragrathod-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dipak-mendapara"/>](https://www.linkedin.com/in/dipak-mendpara-b9948a16b/)
+[<img src="https://img.shields.io/badge/-dipak-mendapara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dipak-mendapara"/>](https://www.linkedin.com/in/dipak-mendpara-b9948a16b/)
 [<img src="https://img.shields.io/github/followers/iampawan?label=follow&style=social"/>](https://github.com/DipakMendapara)
 
 
