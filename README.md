@@ -13,12 +13,11 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with Android Projects.
 - 💬 Ask me about Website Designing and Development tools related stuff.
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He/His
+- ⚡ Fun fact:  I spend almost 1 hours listening songs.
 
 [<img src="https://img.shields.io/twitter/follow/thechiragrathod?style=social"/>]()
-[<img src="https://img.shields.io/badge/-thechiragrathod-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thechiragrathod"/>](https://www.linkedin.com/in/dipak-mendpara-b9948a16b/)
+[<img src="https://img.shields.io/badge/-thechiragrathod-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dipak-mendapara"/>](https://www.linkedin.com/in/dipak-mendpara-b9948a16b/)
 [<img src="https://img.shields.io/github/followers/iampawan?label=follow&style=social"/>](https://github.com/DipakMendapara)
 
 
