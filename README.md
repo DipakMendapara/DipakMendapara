@@ -55,4 +55,8 @@
 <hr>
 </hr>
 
-***<h3>Show some <img src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png"  height="15px" width="15px"/> by starring some of the repositories!</h3>*** 
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
