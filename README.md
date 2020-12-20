@@ -6,8 +6,8 @@
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" align="left" height="25px" width="25px"/>](https://www.linkedin.com/in/dipak-mendpara-b9948a16b/)
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" align="left" height="25px" width="25px"/>](https://github.com/DipakMendapara)
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" align="left" height="25px" width="25px"/>](https://www.instagram.com/official._.d_e_e_p_s/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" align="left" height="25px" width="25px"/>](https://www.facebook.com/profile.php?id=100024945319919)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"  height="25px" width="25px"/>](https://www.youtube.com/channel/UC9a3DRgxCGqvJti7OqnyvBA)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" align="left" height="25px" width="25px"/>](https://www.facebook.com/dipak.mendapara.6)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"  height="25px" width="25px"/>](https://www.youtube.com/channel/UCjWXfLeEV5SrlZCYoVod9yQ?view_as=subscriber)
 
 - 🌱 I’m currently learning Advanced User Interface.
 - 👯 I’m looking to collaborate on ...
@@ -17,9 +17,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[<img src="https://img.shields.io/twitter/follow/thechiragrathod?style=social"/>](https://twitter.com/TheChiragRathod)
-[<img src="https://img.shields.io/badge/-thechiragrathod-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thechiragrathod"/>](https://www.linkedin.com/in/thechiragrathod)
-[<img src="https://img.shields.io/github/followers/iampawan?label=follow&style=social"/>](https://github.com/TheChiragRathod)
+[<img src="https://img.shields.io/twitter/follow/thechiragrathod?style=social"/>]()
+[<img src="https://img.shields.io/badge/-thechiragrathod-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thechiragrathod"/>](https://www.linkedin.com/in/dipak-mendpara-b9948a16b/)
+[<img src="https://img.shields.io/github/followers/iampawan?label=follow&style=social"/>](https://github.com/DipakMendapara)
 
 
 
