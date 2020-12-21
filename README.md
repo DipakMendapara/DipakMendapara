@@ -38,7 +38,12 @@
 </hr>
 
  <a href="https://github.com/DipakMendapara" >
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DipakMendapara&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />  </a>     <a href="https://github.com/DipakMendapara" ><img src="https://github-readme-stats.vercel.app/api?username=DipakMendapara&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /> </a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilip-Sarvaiya&theme=dark&hide_langs_below=1" />
+</a>
+<a href="https://github.com/Dilip-Sarvaiya">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dilip-Sarvaiya&show_icons=true&theme=dark&line_height=27" alt="Dilip's github stars"/>
+</a>
+
 
 
 <hr>
