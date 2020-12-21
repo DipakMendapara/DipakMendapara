@@ -2,7 +2,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=thechiragrathod&label=Views&color=blue&style=plastic" />
 
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" align="left" height="25px" width="25px"/>]()
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" align="left" height="25px" width="25px"/>](https://twitter.com/DipakMendapara1)
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" align="left" height="25px" width="25px"/>](https://www.linkedin.com/in/dipak-mendpara-b9948a16b/)
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" align="left" height="25px" width="25px"/>](https://github.com/DipakMendapara)
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" align="left" height="25px" width="25px"/>](https://www.instagram.com/official._.d_e_e_p_s/)
