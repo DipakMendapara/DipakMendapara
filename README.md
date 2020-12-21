@@ -37,9 +37,7 @@
 <hr>
 </hr>
 
- <a href="https://github.com/DipakMendapara" >
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DipakMendapara&theme=dark&hide_langs_below=1" />
-</a>
+ 
 <a href="https://github.com/DipakMendapara">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DipakMendapara&show_icons=true&theme=dark&line_height=27" alt="Dipak's github stars"/>
 </a>
