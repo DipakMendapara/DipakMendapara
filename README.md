@@ -38,10 +38,10 @@
 </hr>
 
  <a href="https://github.com/DipakMendapara" >
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilip-Sarvaiya&theme=dark&hide_langs_below=1" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DipakMendapara&theme=dark&hide_langs_below=1" />
 </a>
-<a href="https://github.com/Dilip-Sarvaiya">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dilip-Sarvaiya&show_icons=true&theme=dark&line_height=27" alt="Dilip's github stars"/>
+<a href="https://github.com/DipakMendapara">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=DipakMendapara&show_icons=true&theme=dark&line_height=27" alt="Dipak's github stars"/>
 </a>
 
 
