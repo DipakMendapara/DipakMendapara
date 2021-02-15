@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning Advanced User Interface.
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCtdndsesTl50KAigofqSRJg).
-- 🤔 I’m looking for help with Web Desiging and Android Projects.
+- 🤔 I’m looking for help with Web Designing and Android Projects.
 - 💬 Ask me about Website Designing and Development tools related stuff.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact:  I spend almost 1 hours listening songs.
