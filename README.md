@@ -10,7 +10,7 @@
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"  height="25px" width="25px"/>](https://www.youtube.com/channel/UCjWXfLeEV5SrlZCYoVod9yQ?view_as=subscriber)
 
 - 🌱 I’m currently learning Advanced User Interface.
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCtdndsesTl50KAigofqSRJg).
 - 🤔 I’m looking for help with Android Projects.
 - 💬 Ask me about Website Designing and Development tools related stuff.
 - 😄 Pronouns: He/His
